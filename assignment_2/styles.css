@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+.box1 {
+    width: 200px;
+    padding: 10px 20px;
+    border: 2px dotted black;
+    margin: 30px 0px;
+}
+
+#id1 {
+    width: 200px;
+    border: 10px solid LightGrey;
+}
+
+#id2 {
+    width: 200px;
+    padding: 10px;
+    background: LightGrey;
+}

@@ -1,0 +1,22 @@
+.line1 {
+    display: inline-block;
+    background: red;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    
+}
+
+.line2 {
+    float: left;
+    background: red;
+    border: 0px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.line3 {
+    position: absolute;
+    display: inline-block;
+    background: red;
+}
